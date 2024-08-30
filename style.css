@@ -24,3 +24,9 @@
     background-color: #ddd;
     color: black;
   }
+.redheader{
+  color: #FF2D00;
+  padding: 20px;
+  text-align: center;
+  background-color: #F1F1F1;
+}
