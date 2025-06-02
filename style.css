@@ -1,5 +1,5 @@
 .header {
-    background-color: #F1F1F1;
+    background-color: #e2dfde;
     text-align: center;
     padding: 20px;
   }
@@ -32,4 +32,9 @@
 }
 .center{
   align-content: center;
+}
+.footer{
+  background-color:#e2dfde;
+  text-align: center;
+  padding: 20px;
 }
