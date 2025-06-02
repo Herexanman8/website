@@ -14,6 +14,12 @@
         <div class="header">
             <h1>Herexanman8</h1>
         </div>
-        
+        <div class="footer">
+            <a href="https://www.youtube.com/@herexanman8">YouTube</a>
+            <br>
+            <a href="https://www.tiktok.com/@herexanman89?is_from_webapp=1&sender_device=pc">TikTok</a>
+            <br>
+            <a href="https://www.instagram.com/lowenddevices/">Instagram</a>
+        </div>
     </body>
 </html>
